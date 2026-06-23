@@ -1,0 +1,34 @@
+# Python 3.8+
+
+# Core Framework
+streamlit
+
+# LLM & Language Processing
+langchain
+langchain-community
+langchain-text-splitters
+
+# Embeddings & LLM (Ollama)
+ollama
+
+# PDF Processing
+PyPDF2
+
+# Numerical Computing
+numpy
+# ==================== OLLAMA MODELS ====================
+# Download these models before running the application:
+#
+# 1. Language Model (LLM):
+#    ollama pull llama3.2:1b
+#
+# 2. Embeddings Model:
+#    ollama pull nomic-embed-text
+#
+# Command to download:
+#    ollama pull llama3.2:1b
+#    ollama pull nomic-embed-text
+#
+# Make sure Ollama is running:
+#    ollama serve
+# ====================================================
